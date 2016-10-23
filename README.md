@@ -20,3 +20,8 @@ ImportExport.xlsm is stored as a BLOB instead of being created say via a ps scri
 You will need to import modImportExport.bas and modValidation.bas, you should then be able to run the Import from the Control sheet of the ImportExport.xlsm workbook.
 
 # Still to come
+
+
+# Contributing
+Please fork this repository and contribute back using pull requests.
+Any contributions, large or small, major features, bugfixes and integration tests are welcomed and appreciated but will be thoroughly reviewed and discussed.
